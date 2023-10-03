@@ -5,7 +5,8 @@
 # Teslo API
 
 1. Clone project
-2. `yarn`
+2. Run
+   `yarn`
 3. Clone `.env.example` to `.env`
 4. Change `.env` to your configuration
 5. Build database
@@ -14,4 +15,5 @@
 docker-compose up -d
 ```
 
-6. Start `yarn start:dev`
+6. Run
+   `yarn start:dev`
